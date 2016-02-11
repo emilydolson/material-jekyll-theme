@@ -4,7 +4,7 @@ email: dolsonem@msu.edu
 description: >
   Workshop at Artificial Life XV on bringing together research on concepts that are
   studied in various isolated subfields of biology and computer science.
-baseurl: "/material-jekyll-theme"
+baseurl: "/scbcs"
 url: "http://emilydolson.github.io"
 fixedNav: 'true' # true or false
 theme: purple # green, blue, orange, purple, grey
