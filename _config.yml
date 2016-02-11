@@ -1,16 +1,16 @@
 # Site settings
-title: Alex Carpenter
-email: your-email@domain.com
+title: Synthesizing Concepts from Biology and Computer Science
+email: dolsonem@msu.edu
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/material-jekyll-theme"
-url: "http://alexcarpenter.me"
+url: "http://emilydolson.github.io"
 fixedNav: 'true' # true or false
 theme: purple # green, blue, orange, purple, grey
-twitterUsername: hybrid_alex
-githubUsername: alexcarpenter
+twitterUsername: emilyldolson
+githubUsername: emilydolson
 dribbbleUsername:
 codepenUsername:
 
