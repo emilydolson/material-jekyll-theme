@@ -2,9 +2,8 @@
 title: Synthesizing Concepts from Biology and Computer Science
 email: dolsonem@msu.edu
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Workshop at Artificial Life XV on bringing together research on concepts that are
+  studied in various isolated subfields of biology and computer science.
 baseurl: "/material-jekyll-theme"
 url: "http://emilydolson.github.io"
 fixedNav: 'true' # true or false
