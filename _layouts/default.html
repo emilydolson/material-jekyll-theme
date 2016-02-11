@@ -10,14 +10,22 @@
     {% include navigation.html %}
     {% include sidebar.html %}
         <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
 
       <div class="container content">
         <article class="c-article">
   
 
-          <div class="c-article__main">
-         {{ content }}
-       </div>
+  <div class="c-article__main">
+    {{ content }}
+  </div>
 </article>
 
       </div>
@@ -39,7 +47,7 @@
         }, false);
       })(document);
     </script>
-
+  </body>
     {% include footer.html %}
-      </body>
+  </body>
 </html>
