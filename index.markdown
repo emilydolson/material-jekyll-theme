@@ -18,4 +18,6 @@ The goal of this workshop is to bring about such syntheses by organizing attende
 
 At the end of the workshop, we will reconvene to discuss overarching ideas and plan logistics for writing the review series. We will also set up organizational structure and a target timeline to facilitate completion of the reviews after the conference.
 
+**Possible topics include**: complexity, emergence, fitness landscapes, information flow, modularity, open-ended evolution, plasticity, recombination, robustness.  Feel free to contact the workshop organizers to identify others working in similar directions.
+
 For more information, [e-mail the organizers](mailto:dolsonem@msu.edu).
