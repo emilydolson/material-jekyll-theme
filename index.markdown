@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Synthesizing Concepts from Biology and Computer Science
 ---
 ![Logo](SCBCSLogo.png)
