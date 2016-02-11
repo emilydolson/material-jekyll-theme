@@ -13,11 +13,6 @@ githubUsername: emilydolson
 dribbbleUsername:
 codepenUsername:
 
-links:
-  twitter: EmilyLDolson
-  twitter: CharlesOfria
-  email: emilyldolson@gmail.com
-
 # Build settings
 permalink: /:year/:month/:title
 markdown: kramdown
