@@ -8,9 +8,9 @@ title: Synthesizing Concepts from Biology and Computer Science
 
 ## Organizers: [Emily Dolson](http://www.EmilyLDolson.com) and [Charles Ofria](http://www.ofria.com)
 
-### Submission deadline: April 1st, 2016
+### Submission deadline: April 1st, 2016 (tentative)
 
-### Notification of acceptance: April 14th, 2016
+### Notification of acceptance: April 14th, 2016 (tentative)
 
 Often, research done by scientists in one field can take a long time to percolate to scientists in another field. This is especially true in Biology and Computer Science, even with closely related sub-fields such as evolutionary computation and evolutionary biology. Such delays can substantially slow down scientific discovery, leading to the premium that many funding agencies have placed on research that cuts across disciplines. The field of Artificial Life is populated by such interdisciplinary scientists, who are well-positioned to improve this situation by surveying research from the constituent communities and synthesizing it into a coherent whole, including evolutionary biology, ecology, animal behavior, molecular biology, evolutionary computation, robotics, philosophy, and many other areas of biology and computer science.
 
