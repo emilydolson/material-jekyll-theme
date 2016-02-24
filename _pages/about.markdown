@@ -9,6 +9,7 @@ Sick of constantly having to write background sections that summarize the same i
    * What topics will the review address?
    * Which subfields will the review bring together?
    * How will synthesizing these bodies of research benefit the field(s)?
+   * How are terms and/or concepts used differently across the fields?
 
 **Expectations of accepted proposals:** By submitting a proposal to this workshop, you are proposing both to give a ~10-15 minute talk on your proposed topic, and to take the lead on organizing the resulting review paper. It is reccomended that you plan on bringing a rough outline of the review with you to the workshop as jumping off point for further discussion.
 
