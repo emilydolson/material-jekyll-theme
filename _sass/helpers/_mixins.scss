@@ -15,12 +15,10 @@
 
 // Font sizing
 @mixin fs--title {
-  line-height: .1;
   font-size: 3rem; // 40px
 }
 
 @mixin fs--heading-1 {
-  line-height: .1;
   font-size: 3rem; // 35px
 }
 
