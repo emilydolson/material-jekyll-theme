@@ -2,7 +2,7 @@
 layout: page
 title: Synthesizing Concepts from Biology and Computer Science
 ---
-<img src="SCBCSLogo.png" alt="Logo" width="50" height="50">
+<img src="SCBCSLogo.png" alt="Logo" width="150" height="150">
 
 # Workshop at ALife XV
 
