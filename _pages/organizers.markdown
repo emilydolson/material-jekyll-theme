@@ -28,7 +28,7 @@ article .begin-examples ~ .highlight {
 
 article .begin-examples ~ h3,
 article .begin-examples ~ img + .p1,
-article .begin-examples ~ .p1 {
+article .begin-examples ~ p +.p1 {
     float: left;
     box-sizing: border-box;
     padding-right: 1rem;
@@ -36,7 +36,7 @@ article .begin-examples ~ .p1 {
 }
 
 article .begin-examples ~ img + .p2,
-article .begin-examples ~ .p2 {
+article .begin-examples ~ p + .p2 {
     float: right;
     clear: right;
     margin-bottom: 1rem;
