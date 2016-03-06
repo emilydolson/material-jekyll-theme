@@ -58,7 +58,7 @@ article .end-examples ~ .highlight {
 
 <div class="begin-examples"></div>
 
-<img class="p1" src="http://cse.msu.edu/~dolsonem/wordpress/wp-content/uploads/2014/09/DolsonHeadshot-225x300.jpg" align="right" alt="Emily Dolson" height="300">
+<img class="p1" src="http://cse.msu.edu/~dolsonem/wordpress/wp-content/uploads/2014/09/DolsonHeadshot-225x300.jpg" align="left" alt="Emily Dolson" height="300">
 
 Emily Dolson
 
