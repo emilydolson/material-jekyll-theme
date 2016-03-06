@@ -42,7 +42,8 @@ article .begin-examples ~ .p2 {
 .end-examples {
     clear: both;
 }
-article .end-examples ~ p,
+article .end-examples ~ p1,
+article .end-examples ~ p2,
 article .end-examples ~ h3,
 article .end-examples ~ .highlight {
     width: auto;
@@ -54,13 +55,13 @@ article .end-examples ~ .highlight {
 <div class="begin-examples"></div>
 
 <div class="p1">
-<img src="http://cse.msu.edu/~dolsonem/wordpress/wp-content/uploads/2014/09/DolsonHeadshot-225x300.jpg" align="center" alt="Emily Dolson" height=300>
-## Emily Dolson
+<img class="p1" src="http://cse.msu.edu/~dolsonem/wordpress/wp-content/uploads/2014/09/DolsonHeadshot-225x300.jpg" align="center" alt="Emily Dolson" height=300>
+Emily Dolson
 </div>
 
 <div class="p2">
-<img src="http://www.ofria.com/OfriaPhoto-web.jpg" align="center" alt="Charles Ofria" height=300>
-## Charles Ofria
+<img class="p2" src="http://www.ofria.com/OfriaPhoto-web.jpg" align="center" alt="Charles Ofria" height=300>
+Charles Ofria
 </div>
 
 
