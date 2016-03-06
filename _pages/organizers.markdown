@@ -19,6 +19,7 @@ article .begin-examples ~ .highlight {
 }
 
 article .begin-examples ~ h3,
+article .begin-examples ~ img,
 article .begin-examples ~ .p1,
 article .begin-examples ~ .p2,
 article .begin-examples ~ .highlight {
@@ -46,6 +47,7 @@ article .begin-examples ~ .p2 {
 }
 article .end-examples ~ p1,
 article .end-examples ~ p2,
+article .end-examples ~ img,
 article .end-examples ~ h3,
 article .end-examples ~ .highlight {
     width: auto;
