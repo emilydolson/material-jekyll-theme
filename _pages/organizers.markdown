@@ -12,6 +12,7 @@ article .begin-examples ~ h2 + p {
 }
 
 article .begin-examples ~ h3,
+article .begin-examples ~ img,
 article .begin-examples ~ p,
 article .begin-examples ~ .highlight {
     width: 50%;
@@ -25,6 +26,7 @@ article .begin-examples ~ .highlight {
 }
 
 article .begin-examples ~ h3,
+article .begin-examples ~ img + .p1,
 article .begin-examples ~ .p1 {
     float: left;
     box-sizing: border-box;
@@ -32,7 +34,7 @@ article .begin-examples ~ .p1 {
     clear: both;
 }
 
-
+article .begin-examples ~ img + .p2,
 article .begin-examples ~ .p2 {
     float: right;
     clear: right;
@@ -54,14 +56,16 @@ article .end-examples ~ .highlight {
 
 <div class="begin-examples"></div>
 
+<div class="p1">
 <img class="p1" src="http://cse.msu.edu/~dolsonem/wordpress/wp-content/uploads/2014/09/DolsonHeadshot-225x300.jpg" align="center" alt="Emily Dolson" height=300>
 
 Emily Dolson
+</div>
 
-
+<div class="p2">
 <img class="p2" src="http://www.ofria.com/OfriaPhoto-web.jpg" align="center" alt="Charles Ofria" height=300>
 
 Charles Ofria
-
+</div>
 
 <div class="end-examples"></div>
