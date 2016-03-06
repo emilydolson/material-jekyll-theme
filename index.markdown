@@ -6,8 +6,6 @@ title: Synthesizing Concepts from Biology and Computer Science
 
 # Workshop at ALife XV
 
-### Organizers: [Emily Dolson](http://www.EmilyLDolson.com) and [Charles Ofria](http://www.ofria.com)
-
 ### Submission deadline: May 15th, 2016
 
 ### Notification of acceptance: June 1st, 2016
