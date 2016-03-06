@@ -13,8 +13,6 @@ article .begin-examples ~ h2 + p {
 
 article .begin-examples ~ h3,
 article .begin-examples ~ img,
-article .begin-examples ~ img + .p1,
-article .begin-examples ~ img + .p2,
 article .begin-examples ~ p,
 article .begin-examples ~ .highlight {
     width: 50%;
@@ -60,10 +58,10 @@ article .end-examples ~ .highlight {
 
 <img class="p1" src="http://cse.msu.edu/~dolsonem/wordpress/wp-content/uploads/2014/09/DolsonHeadshot-225x300.jpg" align="left" alt="Emily Dolson" height="300">
 
-Emily Dolson
+<p class="p1">Emily Dolson</p>
 
 <img class="p2" src="http://www.ofria.com/OfriaPhoto-web.jpg" align="right" alt="Charles Ofria" height="300">
 
+<p class="p1">Charles Ofria</p>
 
-Charles Ofria
 <div class="end-examples"></div>
