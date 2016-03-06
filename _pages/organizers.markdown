@@ -62,7 +62,7 @@ article .end-examples ~ .highlight {
 
 Emily Dolson
 
-<img src="http://www.ofria.com/OfriaPhoto-web.jpg" align="right" alt="Charles Ofria" height="300">
+<img class="p2" src="http://www.ofria.com/OfriaPhoto-web.jpg" align="right" alt="Charles Ofria" height="300">
 
 
 Charles Ofria
