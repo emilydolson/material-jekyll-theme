@@ -4,8 +4,7 @@ title: Organizers
 permalink: /organizers/
 ---
 
-
-<img align="left" src="http://cse.msu.edu/~dolsonem/wordpress/wp-content/uploads/2014/09/DolsonHeadshot-225x300.jpg" alt="Emily Dolson" height=300>
+![](http://cse.msu.edu/~dolsonem/wordpress/wp-content/uploads/2014/09/DolsonHeadshot-225x300.jpg)
 
 Emily Dolson
 
