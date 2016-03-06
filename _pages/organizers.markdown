@@ -61,7 +61,7 @@ article .end-examples ~ .highlight {
 <div class="p1">
 <img src="http://cse.msu.edu/~dolsonem/wordpress/wp-content/uploads/2014/09/DolsonHeadshot-225x300.jpg" align="center" alt="Emily Dolson" height=300></img>
 
-Emily Dolson
+E1mily Dolson
 </div>
 
 <div class="p2">
