@@ -14,18 +14,18 @@ Often, research done by scientists in one field can take a long time to percolat
 
 # Schedule
 
-time | Topic | Authors
+Time | Topic | Authors
 | ------------- |-------------| :-----|
-14:00 | Intro |
-14:15 | [Diversity in Biological and Computational Populations](abstracts/Diversity.pdf) | Emily Dolson and Charles Ofria
-14:30 | [Fitness](abstracts/Fitness.pdf) | Michael Wiser
-14:45 | [Open-Ended Evolution](abstracts/Open-ended_Evolution.pdf) | Tim Taylor, Mark Bedau, and Alastair Channon
-15:00 | [Synthesizing Concepts in self-modification](abstracts/Self-modification.pdf) | Simon Hickinbotham and Susan Stepney
-15:15 | [Comprehensive Review of Plasticity](abstracts/Plasticity.pdf) | Leigh Sheneman and Arend Hintze
-15:30 | [Modularity and its Origins](abstracts/Modularity.pdf) | Jessica Lowell
-15:45 | [Recombination in Biology and Computer Science](abstracts/Recombination.pdf) | Dusan Misevic
-16:00 | [Applied Co-Evolution](abstracts/Coevolution.pdf) | Luis Zaman
-16:15 | Concluding Discussion |
+**14:00** | Intro |
+**14:15** | [Diversity in Biological and Computational Populations](abstracts/Diversity.pdf) | Emily Dolson and Charles Ofria
+**14:30** | [Fitness](abstracts/Fitness.pdf) | Michael Wiser
+**14:45** | [Open-Ended Evolution](abstracts/Open-ended_Evolution.pdf) | Tim Taylor, Mark Bedau, and Alastair Channon
+**15:00** | [Synthesizing Concepts in self-modification](abstracts/Self-modification.pdf) | Simon Hickinbotham and Susan Stepney
+**15:15** | [Comprehensive Review of Plasticity](abstracts/Plasticity.pdf) | Leigh Sheneman and Arend Hintze
+**15:30** | [Modularity and its Origins](abstracts/Modularity.pdf) | Jessica Lowell
+**15:45** | [Recombination in Biology and Computer Science](abstracts/Recombination.pdf) | Dusan Misevic
+**16:00** | [Applied Co-Evolution](abstracts/Coevolution.pdf) | Luis Zaman
+**16:15** | Concluding Discussion |
 
 Everyone who is interested in contributing to the review series is invited to join us for lunch on Wednesday to discuss these ideas further. Location TBD.
 
