@@ -33,6 +33,12 @@ Everyone who is interested in contributing to the review series is invited to jo
 
 A draft of the guidelines for contributions to this review series is available [here](https://docs.google.com/document/d/1Pw9yU9eFE7J1OAZ0wAUW_poHaO_ozJ9tVUpD8B7qZGc/edit?usp=sharing). Timelines for completing the papers, as well as other modifications to these guidelines, will be discussed at the workshop.
 
+#Collaboration Tools
 
+- **Gitter** - To facilitate group discussion of the review series, [we'll be using gitter](https://gitter.im/orgs/SCBCS/rooms). We chose gitter because it allows anyone who is interested in participating to easily join in, and provides e-mail notification of new messages so everyone stays up-to-date. Note that all discussion on gitter is public.
+
+- **Overleaf** - We will be collaboratively writing these reviews on [Overleaf](http://www.overleaf.com). Overleaf allows for collaborative editing of papers. Under the hood, they are stored as LaTeX files in a git repository. Conveniently, Overleaf provides a word-processor like rich text interface for editing documents without needing to touch the LaTeX or git if you don't want to. If you're a fan of git, Overleaf also allows contributors to clone the git repository associated with a paper, make edits locally, and then merge them when desired. Read-only links to all documents will posted on the associated gitter channel. To make contributions to overleaf documents, you will need to request the edit link for that document. To make determining authorship easier, we ask that anyone contributing via the overleaf web interface make an account on Overleaf and make sure to be signed in when making edits (this ensures that your name will show up in the history).
+
+- **Citation Managers** - Keeping track of references will be really important for these projects. We don't yet have a perfect solution. Overleaf integrates with most citation management tools, and most citation management tools have a way of creating a shared library for a project like this. Unfortunately, Overleaf doesn't integrate with those features yet. Tentatively, we suggest that each group maintain a shared library in [Zotero](http://www.zotero.org) and manually sync it with a bibliography file on the corresponding Overleaf project, but we are open to suggestions.
 
 For more information, [e-mail the organizers](mailto:dolsonem@msu.edu).
