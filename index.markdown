@@ -20,7 +20,7 @@ Often, research done by scientists in one field can take a long time to percolat
 - 14:45 - Open-Ended Evolution - Tim Taylor, Mark Bedau, and Alastair Channon
 - 15:00 - Synthesizing Concepts in self-modification - Simon Hickinbotham and Susan Stepney
 - 15:15 - Comprehensive Review of Plasticity - Leigh Sheneman and Arend Hintze
-- 15:30 - Modularity and it's Origins - Jessica Lowell
+- 15:30 - Modularity and its Origins - Jessica Lowell
 - 15:45 - Recombination in Biology and Computer Science - Dusan Misevic
 - 16:00 - Applied Co-Evolution - Luis Zaman
 - 16:15 - Concluding Discussion
@@ -29,7 +29,7 @@ Everyone who is interested in contributing to the review series is invited to jo
 
 # Contribution Guidelines
 
-A draft of the guidlines for contribution to this review seris is available [here](https://docs.google.com/document/d/1Pw9yU9eFE7J1OAZ0wAUW_poHaO_ozJ9tVUpD8B7qZGc/edit?usp=sharing). Timelines for completeing the papers, as well as other modifications to these guidelines, will be discussed at the workshop.
+A draft of the guidlines for contributions to this review seris is available [here](https://docs.google.com/document/d/1Pw9yU9eFE7J1OAZ0wAUW_poHaO_ozJ9tVUpD8B7qZGc/edit?usp=sharing). Timelines for completeing the papers, as well as other modifications to these guidelines, will be discussed at the workshop.
 
 
 
