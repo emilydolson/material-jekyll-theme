@@ -5,18 +5,23 @@ title: Synthesizing Concepts from Biology and Computer Science
 <img src="SCBCSLogo.png" align="right" alt="Logo" width="400">
 
 # Workshop at ALife XV
+### Time: 16:00 on Tuesday July 4th, 2016
+### Location: Contoy Room
 
-### Submission deadline: May 15th, 2016
+Often, research done by scientists in one field can take a long time to percolate to scientists in another field. This is especially true in Biology and Computer Science, even with closely related sub-fields such as evolutionary computation and evolutionary biology. Such delays can substantially slow down scientific discovery, leading to the premium that many funding agencies have placed on research that cuts across disciplines. The field of Artificial Life is populated by such interdisciplinary scientists, who are well-positioned to improve this situation by surveying research from the constituent communities and synthesizing it into a coherent whole, including evolutionary biology, ecology, animal behavior, molecular biology, evolutionary computation, robotics, philosophy, and many other areas of biology and computer science. The goal of this workshop is to bring about such syntheses by organizing attendees into longer-term working groups to write cross-disciplinary reviews on subjects related to Artificial Life. To this end, we have accepted 8 proposals for such reviews. The proposers of each review will give a brief talk about their topic, why it merits such a review, and their preliminary vision for what their review should include. Audience members will be encouraged (but not obligated!) to join working groups for any reviews they are interested in contributing to.
 
-### Notification of acceptance: June 1st, 2016
+# Schedule
 
-Often, research done by scientists in one field can take a long time to percolate to scientists in another field. This is especially true in Biology and Computer Science, even with closely related sub-fields such as evolutionary computation and evolutionary biology. Such delays can substantially slow down scientific discovery, leading to the premium that many funding agencies have placed on research that cuts across disciplines. The field of Artificial Life is populated by such interdisciplinary scientists, who are well-positioned to improve this situation by surveying research from the constituent communities and synthesizing it into a coherent whole, including evolutionary biology, ecology, animal behavior, molecular biology, evolutionary computation, robotics, philosophy, and many other areas of biology and computer science.
-
-The goal of this workshop is to bring about such syntheses by organizing attendees into longer-term working groups to write cross-disciplinary reviews on subjects related to Artificial Life. To this end, we will be accepting 5-10 proposals for this workshop. Each proposal should summarize a topic for a cross-disciplinary review paper relevant to Artificial Life, including a description of which fields/bodies of research the review would draw upon. Authors of accepted proposals will give a 10-15 minute talk about their proposed topic during the first half of the workshop. After the talks, interested attendees will break into working groups to begin planning out review papers for each topic. Because the goal of these papers is to bring together a wide range of ideas and experience, large working groups in which everyone contributes a small piece to the paper are encouraged, and working groups will be encouraged to invite additional contributions to their reviews from beyond the Artificial Life community.
-
-At the end of the workshop, we will reconvene to discuss overarching ideas and plan logistics for writing the review series. We will also set up organizational structure and a target timeline to facilitate completion of the reviews after the conference.
-
-**Possible topics include**: complexity, emergence, fitness landscapes, information flow, modularity, open-ended evolution, plasticity, recombination, robustness.  Feel free to contact the workshop organizers to identify others working in similar directions.
+- 14:00 - Intro
+- 14:15 - Diversity in Biological and Computational Populations - Emily Dolson and Charles Ofria
+- 14:30 - Fitness - Michael Wiser
+- 14:45 - Open-Ended Evolution - Tim Taylor, Mark Bedau, and Alastair Channon
+- 15:00 - Synthesizing Concepts in self-modification - Simon Hickinbotham and Susan Stepney
+- 15:15 - Comprehensive Review of Plasticity - Leigh Sheneman and Arend Hintze
+- 15:30 - Modularity and it's Origins - Jessica Lowell
+- 15:45 - Recombination in Biology and Computer Science - Dusan Misevic
+- 16:00 - Applied Co-Evolution - Luis Zaman
+- 16:15 - Concluding Discussion
 
 For more information, [e-mail the organizers](mailto:dolsonem@msu.edu).
 
