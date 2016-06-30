@@ -6,9 +6,9 @@ title: Synthesizing Concepts from Biology and Computer Science
 
 # Workshop at ALife XV
 
-## Time: 16:00 on Tuesday July 4th, 2016
+### Time: 16:00 on Tuesday July 4th, 2016
 
-## Location: Contoy Room
+### Location: Contoy Room
 
 Often, research done by scientists in one field can take a long time to percolate to scientists in another field. This is especially true in Biology and Computer Science, even with closely related sub-fields such as evolutionary computation and evolutionary biology. Such delays can substantially slow down scientific discovery, leading to the premium that many funding agencies have placed on research that cuts across disciplines. The field of Artificial Life is populated by such interdisciplinary scientists, who are well-positioned to improve this situation by surveying research from the constituent communities and synthesizing it into a coherent whole, including evolutionary biology, ecology, animal behavior, molecular biology, evolutionary computation, robotics, philosophy, and many other areas of biology and computer science. The goal of this workshop is to bring about such syntheses by organizing attendees into longer-term working groups to write cross-disciplinary reviews on subjects related to Artificial Life. To this end, we have accepted 8 proposals for such reviews. The proposers of each review will give a brief talk about their topic, why it merits such a review, and their preliminary vision for what their review should include. Audience members will be encouraged (but not obligated!) to join working groups for any reviews they are interested in contributing to.
 
