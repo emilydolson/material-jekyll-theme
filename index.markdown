@@ -16,24 +16,23 @@ Often, research done by scientists in one field can take a long time to percolat
 
 Time | Topic | Authors
 | ------------- |-------------| :-----|
-**14:00** | Intro |
-**14:15** | [Diversity in Biological and Computational Populations](abstracts/Diversity.pdf) | Emily Dolson and Charles Ofria
-**14:30** | [Fitness](abstracts/Fitness.pdf) | Michael Wiser
-**14:45** | [Open-Ended Evolution](abstracts/Open-ended_Evolution.pdf) | Tim Taylor, Mark Bedau, and Alastair Channon
-**15:00** | [Synthesizing Concepts in self-modification](abstracts/Self-modification.pdf) | Simon Hickinbotham and Susan Stepney
-**15:15** | [Comprehensive Review of Plasticity](abstracts/Plasticity.pdf) | Leigh Sheneman and Arend Hintze
-**15:30** | [Modularity and its Origins](abstracts/Modularity.pdf) | Jessica Lowell
-**15:45** | [Recombination in Biology and Computer Science](abstracts/Recombination.pdf) | Dusan Misevic
-**16:00** | [Applied Co-Evolution](abstracts/Coevolution.pdf) | Luis Zaman
-**16:15** | Concluding Discussion |
+**16:00** | Intro |
+**16:15** | [Diversity in Biological and Computational Populations](abstracts/Diversity.pdf) | Emily Dolson and Charles Ofria
+**16:30** | [Fitness](abstracts/Fitness.pdf) | Michael Wiser
+**16:45** | [Open-Ended Evolution](abstracts/Open-ended_Evolution.pdf) | Tim Taylor, Mark Bedau, and Alastair Channon
+**17:00** | [Synthesizing Concepts in self-modification](abstracts/Self-modification.pdf) | Simon Hickinbotham and Susan Stepney
+**17:15** | [Comprehensive Review of Plasticity](abstracts/Plasticity.pdf) | Leigh Sheneman and Arend Hintze
+**17:30** | [Modularity and its Origins](abstracts/Modularity.pdf) | Jessica Lowell
+**17:45** | [Recombination in Biology and Computer Science](abstracts/Recombination.pdf) | Dusan Misevic
+**18:00** | [Applied Co-Evolution](abstracts/Coevolution.pdf) | Luis Zaman
+**18:15** | Concluding Discussion |
 
-Everyone who is interested in contributing to the review series is invited to join us for lunch on Wednesday to discuss these ideas further. Location TBD.
+Everyone who is interested in contributing to the review series is invited to join us for lunch on Wednesday to informally discuss these ideas further. Location TBD.
 
 # Contribution Guidelines
 
-A draft of the guidlines for contributions to this review seris is available [here](https://docs.google.com/document/d/1Pw9yU9eFE7J1OAZ0wAUW_poHaO_ozJ9tVUpD8B7qZGc/edit?usp=sharing). Timelines for completeing the papers, as well as other modifications to these guidelines, will be discussed at the workshop.
+A draft of the guidelines for contributions to this review series is available [here](https://docs.google.com/document/d/1Pw9yU9eFE7J1OAZ0wAUW_poHaO_ozJ9tVUpD8B7qZGc/edit?usp=sharing). Timelines for completing the papers, as well as other modifications to these guidelines, will be discussed at the workshop.
 
 
 
 For more information, [e-mail the organizers](mailto:dolsonem@msu.edu).
-
