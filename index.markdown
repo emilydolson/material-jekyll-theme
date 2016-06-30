@@ -25,5 +25,13 @@ Often, research done by scientists in one field can take a long time to percolat
 - 16:00 - Applied Co-Evolution - Luis Zaman
 - 16:15 - Concluding Discussion
 
+Everyone who is interested in contributing to the review series is invited to join us for lunch on Wednesday to discuss these ideas further. Location TBD.
+
+# Contribution Guidelines
+
+A draft of the guidlines for contribution to this review seris is available [here](https://docs.google.com/document/d/1Pw9yU9eFE7J1OAZ0wAUW_poHaO_ozJ9tVUpD8B7qZGc/edit?usp=sharing). Timelines for completeing the papers, as well as other modifications to these guidelines, will be discussed at the workshop.
+
+
+
 For more information, [e-mail the organizers](mailto:dolsonem@msu.edu).
 
