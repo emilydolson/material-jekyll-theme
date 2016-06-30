@@ -15,8 +15,8 @@ Often, research done by scientists in one field can take a long time to percolat
 # Schedule
 
 - 14:00 - Intro
-- 14:15 - Diversity in Biological and Computational Populations - Emily Dolson and Charles Ofria
-- 14:30 - Fitness - Michael Wiser
+- 14:15 - [Diversity in Biological and Computational Populations](abstracts/Diversity.pdf) - Emily Dolson and Charles Ofria
+- 14:30 - [Fitness](abstracts/Fitness.pdf) - Michael Wiser
 - 14:45 - Open-Ended Evolution - Tim Taylor, Mark Bedau, and Alastair Channon
 - 15:00 - Synthesizing Concepts in self-modification - Simon Hickinbotham and Susan Stepney
 - 15:15 - Comprehensive Review of Plasticity - Leigh Sheneman and Arend Hintze
