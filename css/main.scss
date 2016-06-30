@@ -113,11 +113,11 @@ tr:hover td {
   border-bottom: 1px solid #22262e;
 }
 
-tr:hover a:link {
+tr:hover > a:link {
   color:grey;
 }
  
-tr:hover a:visited {
+tr:hover > a:visited {
   color:grey;
 } 
  
