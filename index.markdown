@@ -33,7 +33,7 @@ Everyone who is interested in contributing to the review series is invited to jo
 
 A draft of the guidelines for contributions to this review series is available [here](https://docs.google.com/document/d/1Pw9yU9eFE7J1OAZ0wAUW_poHaO_ozJ9tVUpD8B7qZGc/edit?usp=sharing). Timelines for completing the papers, as well as other modifications to these guidelines, will be discussed at the workshop.
 
-#Collaboration Tools
+# Collaboration Tools
 
 - **Gitter** - To facilitate group discussion of the review series, [we'll be using gitter](https://gitter.im/orgs/SCBCS/rooms). We chose gitter because it allows anyone who is interested in participating to easily join in, and provides e-mail notification of new messages so everyone stays up-to-date. Note that all discussion on gitter is public.
 
