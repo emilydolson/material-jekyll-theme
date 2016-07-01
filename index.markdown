@@ -6,7 +6,7 @@ title: Synthesizing Concepts from Biology and Computer Science
 
 # Workshop at ALife XV
 
-### Time: 16:00 on Tuesday July 4th, 2016
+### Time: 16:00 on Tuesday July 5th, 2016
 
 ### Location: Contoy Room
 
