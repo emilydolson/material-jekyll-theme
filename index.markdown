@@ -14,18 +14,18 @@ Often, research done by scientists in one field can take a long time to percolat
 
 # Schedule
 
-Time | Topic | Authors
-| ------------- |-------------| :-----|
-**16:00** | Intro |
-**16:15** | [Diversity in Biological and Computational Populations](abstracts/Diversity.pdf) | Emily Dolson and Charles Ofria
-**16:30** | [Fitness](abstracts/Fitness.pdf) | Michael Wiser
-**16:45** | [Open-Ended Evolution](abstracts/Open-ended_Evolution.pdf) | Tim Taylor, Mark Bedau, and Alastair Channon
-**17:00** | [Synthesizing Concepts in self-modification](abstracts/Self-modification.pdf) | Simon Hickinbotham and Susan Stepney
-**17:15** | [Comprehensive Review of Plasticity](abstracts/Plasticity.pdf) | Leigh Sheneman and Arend Hintze
-**17:30** | [Modularity and its Origins](abstracts/Modularity.pdf) | Jessica Lowell
-**17:45** | [Recombination in Biology and Computer Science](abstracts/Recombination.pdf) | Dusan Misevic
-**18:00** | [Applied Co-Evolution](abstracts/Coevolution.pdf) | Luis Zaman
-**18:15** | Concluding Discussion |
+Time | Topic | Authors | Gitter Room
+| ------------- |-------------| :-----|---------|
+**16:00** | Intro | Charles Ofria and Emily Dolson | [discuss](https://gitter.im/SCBCS/general-discussion)
+**16:15** | [Diversity in Biological and Computational Populations](abstracts/Diversity.pdf) | Emily Dolson and Charles Ofria | [discuss](https://gitter.im/SCBCS/diversity)
+**16:30** | [Fitness](abstracts/Fitness.pdf) | Michael Wiser | [discuss](https://gitter.im/SCBCS/fitness) 
+**16:45** | [Open-Ended Evolution](abstracts/Open-ended_Evolution.pdf) | Tim Taylor, Mark Bedau, and Alastair Channon | [discuss](https://gitter.im/SCBCS/oee)
+**17:00** | [Synthesizing Concepts in self-modification](abstracts/Self-modification.pdf) | Simon Hickinbotham and Susan Stepney | [discuss](https://gitter.im/SCBCS/self-modification)
+**17:15** | [Comprehensive Review of Plasticity](abstracts/Plasticity.pdf) | Leigh Sheneman and Arend Hintze | [discuss](https://gitter.im/SCBCS/plasticity)
+**17:30** | [Modularity and its Origins](abstracts/Modularity.pdf) | Jessica Lowell | [discuss](https://gitter.im/SCBCS/modularity) 
+**17:45** | [Recombination in Biology and Computer Science](abstracts/Recombination.pdf) | Dusan Misevic | [discuss](https://gitter.im/SCBCS/recombination)
+**18:00** | [Applied Co-Evolution](abstracts/Coevolution.pdf) | Luis Zaman | [discuss](https://gitter.im/SCBCS/coevolution)
+**18:15** | Concluding Discussion | | [discuss](https://gitter.im/SCBCS/general-discussion)|
 
 Everyone who is interested in contributing to the review series is invited to join us for lunch on Wednesday to informally discuss these ideas further. Location TBD.
 
